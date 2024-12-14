@@ -131,5 +131,8 @@ A fully functional chess game clone where two players can play chess with specta
 - Include ratings and player statistics through database 
 
 ---
+ ## Layout
+ !(https://github.com/riyal-rj/chess.com-Clone/blob/main/lookout.png)
+
 
 Feel free to contribute to this project or provide feedback! 🎉
