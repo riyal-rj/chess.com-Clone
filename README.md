@@ -58,7 +58,7 @@ The main outcome of the project is to get hands on experince about **socket.io**
 
 3. **Start the Server**  
    ```bash
-   node index.js
+   node app.js
    ```
 
 4. **Access the Game**  
@@ -83,7 +83,7 @@ The main outcome of the project is to get hands on experince about **socket.io**
 chess-com-clone/
 │-- public/          # Static assets (CSS, JS)
 │-- views/           # EJS Templates
-│-- index.js         # Server entry point
+│-- app.js         # Server entry point
 │-- package.json     # Project metadata
 │-- README.md        # Documentation
 ```
